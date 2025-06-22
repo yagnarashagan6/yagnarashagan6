@@ -14,9 +14,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [EduGen AI](https://github.com/yagnarashagan6/edugen-ai) | Personalized learning platform with AI chatbot | React, Firebase, OpenRouter API |
+| [EduGen AI](https://github.com/yagnarashagan6/EDUGEN_AI) | Personalized learning platform with AI chatbot | React, Firebase, OpenRouter API |
 | [Color Bucket](https://github.com/yagnarashagan6/color-changing-bucket) | Thermochromic pigment based smart bucket | thermochromic pigment , carbon nanotubes |
-| [Portfolio Website](https://github.com/yagnarashagan6/code-creativity-ai-bloom) | Personal portfolio in React | React, Tailwind, Framer Motion |
+| [Portfolio Website](https://github.com/yagnarashagan6/Portfolio) | Personal portfolio in React | React, Tailwind, Framer Motion |
 
 ---
 
