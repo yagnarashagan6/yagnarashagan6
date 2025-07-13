@@ -15,8 +15,8 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [EduGen AI](https://github.com/yagnarashagan6/EDUGEN_AI) | Personalized learning platform with AI chatbot | React, Firebase, OpenRouter API |
-| [Stock Prediction](https://github.com/yagnarashagan6/StockPrediction) | Predict possible stock movement using ML models | Python, Pandas, Scikit-Learn |
-| [QuizNova](https://github.com/yagnarashagan6/QuizNova) | AI-powered quiz generator based on topic input | React, Node.js, MongoDB, Express.js |
+| [Stock Prediction](https://github.com/yagnarashagan6/StockPrediction) | Predict possible stock movement using Excel sheet values | Python, Pandas |
+| [QuizNova](https://github.com/yagnarashagan6/QuizNova) | AI-powered quiz generator based on topic input | React, Express.js |
 
 ---
 
