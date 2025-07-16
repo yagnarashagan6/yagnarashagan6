@@ -6,7 +6,7 @@
 
 ### 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind,js,python,java,firebase,vite,figma,git)
+![My Skills](https://skillicons.dev/icons?i=react,expressjs,nodejs,tailwind,js,python,java,firebase,vite,figma,git)
 
 ---
 
