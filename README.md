@@ -23,7 +23,13 @@
 ### 📈 GitHub Stats
 
 ![Yagnarashagan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagnarashagan6&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagnarashagan6&layout=compact&theme=radical&langs_count=6&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagnarashagan6&layout=compact&theme=github_dark&exclude_repo=StockPrediction)
+
+
+
+
+
+
 
 ---
 
