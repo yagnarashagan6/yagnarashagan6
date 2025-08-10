@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Yagnarashagan!
+# 👋 Hi, I'm Yagnarashagan! 
+
+
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-green?style=for-the-badge&logo=vercel)](https://yagnarashagan-portfolio.vercel.app/)
+
+
 
 🎓 B.Tech AI & Data Science Student | 💻 Full-Stack Developer | 🤖 AI Enthusiast
 
@@ -24,12 +30,6 @@
 
 ![Yagnarashagan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagnarashagan6&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagnarashagan6&layout=compact&theme=github_dark&exclude_repo=StockPrediction)
-
-
-
-
-
-
 
 ---
 
