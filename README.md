@@ -86,8 +86,6 @@ Currently pursuing my **B.Tech in Artificial Intelligence & Data Science** at Ag
 
 <div align="center">
 
-![Yagnarashagan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagnarashagan6&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagnarashagan6&layout=compact&theme=radical&hide_border=true&exclude_repo=StockPrediction)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yagnarashagan6&theme=radical&hide_border=true)
